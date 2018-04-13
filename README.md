@@ -1,6 +1,18 @@
 # b64
 > base64 command-line utlity
 
+# Installation
+
+```shell
+$ go get github.com/picatz/b64
+```
+
+#### Updating Version
+
+```shell
+$ go get -u github.com/picatz/b64
+```
+
 # Usage
 
 After installing, you can run the command `b64` to see the following help menu:
